@@ -83,3 +83,6 @@ for (const i = 0; i < scores.length; i++) { // TypeError
     console.log(scores[i]);
 }
 ```
+
+### Reference ###
+1. http://www.javascripttutorial.net/es6/javascript-const/
