@@ -22,4 +22,4 @@ console.log(clonedUser);
 
 
 # Reference #
-1. http://www.javascripttutorial.net/es6/javascript-spread/
+- http://www.javascripttutorial.net/es6/javascript-spread/
