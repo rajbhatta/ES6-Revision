@@ -20,3 +20,6 @@ const clonedUser = { ...user1 };
 console.log(clonedUser);
 ```
 
+
+# Reference #
+1. http://www.javascripttutorial.net/es6/javascript-spread/
