@@ -1,4 +1,4 @@
-# Why to use default parameters in Es6 #
+# 5. Why to use default parameters in Es6 #
 - In JavaScript, default function parameters allow you to initialize named parameters with default values if no values or undefined are passed into the function.
 
 ## Setting JavaScript default parameters for a function ##

@@ -1,4 +1,4 @@
-# When to use <b> ...for...in </b> loop? #
+# 8. When to use <b> ...for...in </b> loop? #
 - ....for .. in loop is used for enumerating the enumerable properties of an object in JavaScript
 - Object is a key valur pair in JavaScript
 - <b> Sytanx </b>

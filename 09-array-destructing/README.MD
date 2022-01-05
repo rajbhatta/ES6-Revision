@@ -1,4 +1,4 @@
-# How to perform array destructing in ES6 ? #
+# 9. How to perform array destructing in ES6 ? #
 - It allows you to destructure an array into individual variables.
 
 - <b> Regular way: </b>

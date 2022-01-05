@@ -1,4 +1,4 @@
-# How to use module in ES6 ? #
+# 11. How to use module in ES6 ? #
 - First, create a new file called message.js and add the following code:
 
 ```js

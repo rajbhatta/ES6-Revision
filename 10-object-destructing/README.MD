@@ -1,4 +1,4 @@
-# How to perform object destructing in ES6 ? #
+# 10. How to perform object destructing in ES6 ? #
 - It allows us to destruct the property of the object.
 
 ## 1. Traditional way of extracting object property ##

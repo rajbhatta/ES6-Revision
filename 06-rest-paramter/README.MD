@@ -1,4 +1,4 @@
-# Working with Rest Paramter in ES6 #
+# 6. Working with Rest Paramter in ES6 #
 - ES6 provides a new kind of parameter so-called rest parameter that has a prefix of three dots <b> (...). A rest parameter allows you to represent an indefinite number of arguments as an array.
 
 ```js

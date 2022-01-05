@@ -9,4 +9,4 @@
 8. <a href ="08-for-in-loop/readme.MD"> For ...in ....loop</a>
 9. <a href ="09-array-destructing/README.MD"> Array destructing</a>
 10. <a href ="10-object-destructing/README.MD"> Object destructing</a>
-11. <a href="10-object-destructing/readme.MD"> Module is ES6 </b>
+11. <a href="11-modules/readme.MD"> Module is ES6 </b>

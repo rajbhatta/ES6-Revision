@@ -1,4 +1,4 @@
-# How to use for .. of loop in ES6 ? #
+# 7. How to use for .. of loop in ES6 ? #
 - ES6 provides a new construct of <b> for...of </b> that creates a loop that iterate over iterable objects such as : <b> Array, String, Map, Set </b>
 
 - <b> Syntax </b>
