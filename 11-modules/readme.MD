@@ -152,7 +152,7 @@ cal.sum();
 
 ```
 
-## 6. Alias immport ##
+## 6. Alias Import ##
 ```js
 
 // math.js  
